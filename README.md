@@ -1,9 +1,11 @@
 # PawsomeVision
 <h1 align="center">PawsomeVision ~ Dog Breed Identification using TensorFlow Deep Learning</h1>
 
-<p align="center">
-  <img width="600" src="https://user-images.githubusercontent.com/60153018/109568977-54aa2a00-7aee-11eb-8b1d-67016ccac551.png](https://miro.medium.com/max/560/1*nZqZ7G9oxjeDx_GkRLxjLw.jpeg">
-</p>
+<!-- <p align="center">
+  <a href="https://user-images.githubusercontent.com/60153018/109568977-54aa2a00-7aee-11eb-8b1d-67016ccac551.png">
+    <img width="600" src="https://user-images.githubusercontent.com/60153018/109568977-54aa2a00-7aee-11eb-8b1d-67016ccac551.png">
+  </a>
+</p> -->
 
 <p align="center">
   <a href="#prerequisites">Prerequisites</a> •
