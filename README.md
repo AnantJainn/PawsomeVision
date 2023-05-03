@@ -26,11 +26,10 @@ Before running the code, make sure you have the following installed:
 - Python 3.x
 - TensorFlow 2.x
 - NumPy
-- OpenCV (cv2)
 - Matplotlib
 
 You can install the dependencies using `pip`:
-pip install tensorflow numpy opencv-python matplotlib
+pip install tensorflow numpy matplotlib
 
 
 ## Dataset
